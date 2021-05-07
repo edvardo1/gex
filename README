@@ -1,0 +1,5 @@
+this is gex (glib extension library), which currently only contains a copy
+hash table function, and will probably be only that function forever, but
+then the name of this repository would be too specific, so i decided not to.
+
+feel free to just drop gex.so anywhere
